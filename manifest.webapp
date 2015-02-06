@@ -1,0 +1,13 @@
+{
+  "name": "ICICI Bank",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/logo.png"
+  },
+  "developer": {
+    "name": "Rigin Oommen",
+    "url": "http://www.mozillakerala.org"
+  },
+  "default_locale": "en"
+}
